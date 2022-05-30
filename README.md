@@ -1,2 +1,3 @@
 # go-study
-https://go.dev/doc/tutorial/fuzz
+
+trying to learn golang cuz it looks cool
