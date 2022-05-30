@@ -1,0 +1,9 @@
+go 1.18
+
+use ./hello
+use ./web-service-gin
+use ./generics
+use ./fuzz
+use ./goroutines
+use ./polymorphism
+use ./pointers
