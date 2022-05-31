@@ -7,3 +7,4 @@ use ./fuzz
 use ./goroutines
 use ./polymorphism
 use ./pointers
+use ./arrays
