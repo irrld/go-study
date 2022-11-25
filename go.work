@@ -8,3 +8,5 @@ use ./goroutines
 use ./polymorphism
 use ./pointers
 use ./arrays
+use ./maps
+use ./cli
